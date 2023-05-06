@@ -14,4 +14,5 @@
 
 ##  Plotly Documentation
 
-![](https://plotly.com/graphing-libraries/)
+### https://plotly.com/graphing-libraries/
+![](https://pbpython.com/images/plotly_header_image.png)
